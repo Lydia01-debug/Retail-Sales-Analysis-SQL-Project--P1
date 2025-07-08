@@ -1,6 +1,6 @@
 # Retail Sales Analysis SQL Project
 
-![Dashboard Screenshot](./Excel_Dashboard)
+![Dashboard Screenshot](./Excel_Dashboard.png)
 
 ## Project Overview
 
