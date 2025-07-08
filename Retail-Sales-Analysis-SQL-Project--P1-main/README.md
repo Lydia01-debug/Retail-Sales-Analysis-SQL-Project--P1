@@ -1,5 +1,7 @@
 # Retail Sales Analysis SQL Project
 
+![Dashboard Screenshot](./Excel_Dashboard)
+
 ## Project Overview
 
 **Project Title**: Retail Sales Analysis  
